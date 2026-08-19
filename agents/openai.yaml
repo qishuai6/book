@@ -1,0 +1,4 @@
+interface:
+  display_name: "book"
+  short_description: "忠实整理七帅的第一人称经历，保留全部内容并写成连续书稿段落"
+  default_prompt: "使用 $book 忠实润色我提供的真实经历，不删减、不改原意、不虚构，并整理成正常连续的中文书稿段落。"
